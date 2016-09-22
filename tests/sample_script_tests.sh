@@ -2,9 +2,6 @@
 
 # Demo sample_script.sh tests
 
-# Option for ZSH
-SHUNIT_PARENT=$0
-
 testSampleScriptParameters() {
   # Load sample_script.sh for testing
   . sample_script.sh
